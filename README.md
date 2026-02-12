@@ -3,7 +3,7 @@
 ## About Me
 
 - Platform Engineer at **Giant Swarm**, working on Kubernetes infrastructure at scale
-- Polyglot developer: Python, Go, TypeScript, Rust
+- Polyglot developer: Python, Go, TypeScript
 - Interested in Cloud Native, Serverless, Blockchain & AI
 - Open source contributor since 2011
 
@@ -22,5 +22,5 @@
 
 ## Connect
 
-[![Email](https://img.shields.io/badge/Email-pau%40giantswarm.io-70A5FD?style=flat-square&logo=gmail&logoColor=white)](mailto:pau@giantswarm.io)
+[![Email](https://img.shields.io/badge/Email-paurosello%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white)](mailto:paurosello@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-paurosello-70A5FD?style=flat-square&logo=github&logoColor=white)](https://github.com/paurosello)
