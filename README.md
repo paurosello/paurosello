@@ -9,7 +9,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,python,go,typescript,rust,aws,terraform,vue,react,linux,git&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,python,go,typescript,aws,terraform,vue,react,linux,git&perline=6)](https://skillicons.dev)
 
 ## Connect
 
