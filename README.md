@@ -11,15 +11,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,python,go,typescript,rust,aws,terraform,vue,react,linux,git&perline=6)](https://skillicons.dev)
 
-## GitHub Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=paurosello&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://streak-stats.demolab.com/?user=paurosello&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paurosello&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ## Connect
 
 [![Email](https://img.shields.io/badge/Email-paurosello%40gmail.com-70A5FD?style=flat-square&logo=gmail&logoColor=white)](mailto:paurosello@gmail.com)
