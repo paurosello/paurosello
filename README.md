@@ -2,7 +2,7 @@
 
 ## About Me
 
-- Platform Engineer at **Giant Swarm**, working on Kubernetes infrastructure at scale
+- Cloud and AI Solution Architect at **Giant Swarm**, working on Kubernetes infrastructure at scale
 - Polyglot developer: Python, Go, TypeScript
 - Interested in Cloud Native, Serverless, Blockchain & AI
 - Open source contributor since 2011
